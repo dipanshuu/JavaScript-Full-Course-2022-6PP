@@ -1,0 +1,26 @@
+
+#18
+calculator(arr,(a)=>a*10);
+calculator(arr,(a)=>a/10);
+
+#19
+Promises in JavaScript
+
+#20
+
+JSON & Fetch API in JavaScript
+
+#21
+Async Await & TryCatch in Javascript
+
+Async await is a way to handle promises
+
+#22
+What is BOM in JavaScript
+
+What is BOM?
+Window-->Navigator
+      -->Document
+      -->History
+      -->Screen
+      -->Location
